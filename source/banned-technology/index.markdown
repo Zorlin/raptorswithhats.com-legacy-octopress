@@ -11,3 +11,5 @@ So I've come to the conclusion that there are some technologies I simply shouldn
 * OpenVPN - bringer of tears.
 * SAMBA4 - dear god, no.
 * CoreOS - too cool for my own good.
+* Sympa - not that I'd want to.
+* OpenStack - pretty self-explanatory.
