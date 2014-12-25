@@ -13,6 +13,8 @@ So instead of waking up before 9:00am on a "weekend" (or holiday, as it were), I
 
 What was amusing once I was awake, however, was Google Now. I have it activated and it's been following my movements and patterns ever since it was publicly available, so it has a lot of data on me. It helpfully popped up a few minutes ago and effectively said "Hey! You! If you don't leave for work, you're going to be late!" (Time to Work: 46 mins).
 
+<!-- more -->
+
 I don't blame it for being confused at the sharp and sudden change in schedule. My actual work times were usually around 1:30-2:00pm and I'd stay until I was too tired to stay any longer or there was nothing I could think to do. I'd love to say I averaged 8 hours a day but there was probably a week or two where I definitely didn't. Making these changes is pretty important to keep things fair to my coworkers. So how did things slide so far?
 
 Well, a long time ago I was working from between 9am to 12pm and until 9pm to 12pm. Almost every single day was 10-14 hours long and I became obsessed with my work. When I got home I'd work more, or play video games. There was literally zero work-life balance and it sent my life into a pretty crappy place for a while. As a result, I had a LOT of comp-time built up.

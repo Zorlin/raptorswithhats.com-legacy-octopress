@@ -13,6 +13,8 @@ Basically no results outside of their site. Red flag 1.
 
 There appears to be no discernible business model anywhere. It simply lists a bunch of features and all the great things you can do "for free" with nary a mention of an upsell or a premium plan or some kind of enterprise thing. Red flag 2.
 
+<!-- more -->
+
 Finally I spotted one of my favourite sites in the search results. I am anything but a pen-tester and I'm not really involved directly in netsec (sysadmin is more my trade). The site basically automatically tells you a basic guess as to what a site is running - webserver, web framework, software like WordPress etc. They don't need free advertising so I won't name them; it's not hard to find similar services.
 
 What they revealed was a veritable mess of things I would not expect from any serious company.

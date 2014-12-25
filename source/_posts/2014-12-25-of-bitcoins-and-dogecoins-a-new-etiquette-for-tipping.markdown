@@ -15,6 +15,8 @@ Even though I have given you something for free, chances are you've come away fr
 
 Let's expand the hypothetical now. 
 
+<!-- more -->
+
 Let's pretend this is a coin that you cannot easily convert into USD - doing so would require going to your bank and handing them your social security number and driver's license. It's also got some magical properties - you can push it into your monitor and it will travel across the internet to wherever you would like it to.
 
 You cannot spend this money at almost any brick-and-mortar store, but there *are* stores online that will accept it.

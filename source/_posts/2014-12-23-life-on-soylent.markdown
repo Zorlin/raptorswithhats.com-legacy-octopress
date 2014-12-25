@@ -13,6 +13,8 @@ At first, I didn't care much for the taste. I figured out that adding honey or 2
 
 For those of you unaware of what Soylent is, it's a nutritional drink/meal replacement/light brown, beigy liquid. The idea is to provide all the nutrients you need while being as cheap and easy to prepare as possible - "Food 2.0" - which it actually mostly succeeds at. It comes in a large bag of powder and a tiny bottle of oil, which you mix with water and refrigerate to form the drink.
 
+<!-- more -->
+
 In the time that I was waiting for my week's supply of Soylent, I did a lot of thinking as to how it could integrate into my life and why I wanted it. Some of that thinking was correct, a lot of it wasn't.
 
 Obviously, cost is a factor - it's around $3 per meal to "eat" with Soylent. Considering the ease of preparation and consumption and the fact that it's fairly well nutritionally balanced, that's a steal. I had some idea that cost would be a factor, but I didn't quite know how true that is. For comparison, a decent meal at my workplace is around $7.50.

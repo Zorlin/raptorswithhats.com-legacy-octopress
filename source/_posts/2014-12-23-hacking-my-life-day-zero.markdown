@@ -13,6 +13,8 @@ I am a systems administrator and I have never really had excellent organizationa
 
 A number of things in my life need to change, for various reasons. I need to get better and more regular sleep, sort out my work schedule, look after my life better in general and most importanly - be productive. This month I am issuing myself a challenge: *do more in one month than you have done in the last year*. This applies to both work and my own personal projects.
 
+<!-- more -->
+
 Additionally, I also need to do a better job with work/life separation to avoid risking burnout.
 
 I will be aiming towards that with various hacks, tricks and experiments. Today is Day Zero, and this is the hack: changing your sleep schedule.
