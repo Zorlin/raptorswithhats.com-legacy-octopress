@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Of Bitcoins and Dogecoins: A New Etiquette for Tipping"
-date: 2014-12-23 20:27:27 -0500
+date: 2014-12-25 00:17:27 -0800
 published: true
 comments: true
 categories: [ cryptocurrency, bitcoin, dogecoin, tipping, etiquette, psa ]
