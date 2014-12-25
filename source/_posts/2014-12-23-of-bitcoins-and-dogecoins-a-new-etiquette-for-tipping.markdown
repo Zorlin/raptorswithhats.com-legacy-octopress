@@ -2,7 +2,7 @@
 layout: post
 title: "Of Bitcoins and Dogecoins: A New Etiquette for Tipping"
 date: 2014-12-23 20:27:27 -0500
-published: false
+published: true
 comments: true
 categories: [ cryptocurrency, bitcoin, dogecoin, tipping, etiquette, psa ]
 ---
@@ -28,3 +28,21 @@ Why $5? It's just enough money to buy something cool and it still creates enough
 You've probably figured out by now that the magical coin I'm referring to represents (most) modern cryptocurrency. Most cryptocurrencies have bots that allow you to "tip" other people small or large amounts of cryptocurrency, which is ridiculously awesome and fun. It spreads good-will and it's an interesting way to spread the word about digital currencies. Unfortunately, there's a flaw with how this is currently happening.
 
 People are tipping small amounts to people that have nothing to do with cryptocurrency - anywhere from 0.05&cent; to 50&cent;. This isn't a problem within the cryptocurrency community - lots of people tip there, so chances are you will eventually accumulate enough to buy something. Even if you don't, tipping is fun and makes people happy within that community.
+
+The problem is once someone receives a tip that they can't spend on something, the one thing they can do with that tip is pass it on to other people. This is something every tipbot is *excellent* at. They can take that $1 tip they received and spread the joy onto 10 other people - and they think they're making those people really happy.
+
+Great, now 10 people have 10 cents of currency that they have no idea what to do with - and you can do even LESS with 10c than you can with $1 - but they can tip! Unfortunately, they don't have enough to make it worthwhile... unless they tip in a tiny amount like "bits" (look how divisible my cryptocurrency is!).
+
+Many people think these kinds of tips showing up outside of the cryptocurrency subreddits is a good thing.
+
+No part of this situation is good for Bitcoin and other cryptocurrencies.
+
+No part of this situation is good for ChangeTip and other tipbots.
+
+We need to encourage people to follow this basic rule.
+
+Big, meaningful and interesting donations provide great publicity for cryptocurrency and ChangeTip. I think it's ridiculously awesome that I can throw change at people across the internet, I really do.
+
+If you want to help cryptocurrency succeed, tip frequently in cryptocurrency subreddits and to anyone that will actually appreciate it. Outside of that, give generously to your friends and to others - in meaningful amounts.
+
+If you have less than $5, either buy Reddit ads or save the money. Or donate it to somewhere with a need for it.
