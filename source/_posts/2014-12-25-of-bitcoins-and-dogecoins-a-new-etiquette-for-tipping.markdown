@@ -41,8 +41,8 @@ No part of this situation is good for ChangeTip and other tipbots.
 
 We need to encourage people to follow this basic rule.
 
-Big, meaningful and interesting donations provide great publicity for cryptocurrency and ChangeTip. I think it's ridiculously awesome that I can throw change at people across the internet, I really do.
-
-If you want to help cryptocurrency succeed, tip frequently in cryptocurrency subreddits and to anyone that will actually appreciate it. Outside of that, give generously to your friends and to others - in meaningful amounts.
+Big, meaningful and interesting tips and donations provide great publicity for cryptocurrency and ChangeTip. I think it's ridiculously awesome that I can throw change at people across the internet, I really do. But this situation has to change.
 
 If you have less than $5, either buy Reddit ads or save the money. Or donate it to somewhere with a need for it.
+
+If you want to help cryptocurrency succeed, tip frequently in cryptocurrency subreddits and to anyone that will actually appreciate it. Outside of that, give generously to your friends and to others - in meaningful amounts.
